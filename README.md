@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# tpe12thmayor2025to2038idvtw
+星空下微風輕拂黃光閃耀的世界
+=======
+>>>>>>> 2e09019 (20250827 v2)
 # Next.js & HeroUI Template
 
 This is a template for creating applications using Next.js 14 (app directory) and HeroUI (v2).
@@ -51,3 +58,7 @@ After modifying the `.npmrc` file, you need to run `pnpm install` again to ensur
 ## License
 
 Licensed under the [MIT license](https://github.com/heroui-inc/next-app-template/blob/main/LICENSE).
+<<<<<<< HEAD
+=======
+>>>>>>> 4a32dee (20250827 v1)
+>>>>>>> 2e09019 (20250827 v2)
