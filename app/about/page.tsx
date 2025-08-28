@@ -27,7 +27,7 @@ export default function AboutPage() {
           <br />
           {"資本額100萬"}
           <br />
-          {"目標海角七億"}
+          {"市值目標(海角)七億"}
           <br />
           {"業務職掌"}
           <br />
@@ -49,7 +49,7 @@ export default function AboutPage() {
           <br />
           {"資本額100萬"}
           <br />
-          {"目標海角七億"}
+          {"市值目標(海角)七億"}
           <br />
           {"業務職掌"}
           <br />
