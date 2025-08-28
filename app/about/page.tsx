@@ -17,8 +17,8 @@ export default function AboutPage() {
           {"2025年上線"}
         </AccordionItem>
         <AccordionItem
-          key="1"
-          aria-label="Accordion 1"
+          key="2"
+          aria-label="Accordion 2"
           title="鋒兄塗哥公關股份有限公司"
         >
           {"企業網站"}
@@ -39,8 +39,8 @@ export default function AboutPage() {
           <br />
         </AccordionItem>
         <AccordionItem
-          key="1"
-          aria-label="Accordion 1"
+          key="3"
+          aria-label="Accordion 3"
           title="鋒兄塗哥資訊股份有限公司"
         >
           {"企業網站"}
