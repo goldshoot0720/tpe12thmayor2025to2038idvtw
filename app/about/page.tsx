@@ -59,7 +59,6 @@ export default function AboutPage() {
           <br />
           {"出版冷門資訊書籍"}
           <br />
-          <br />
           {"鋒兄業餘愛好"}
           <br />
         </AccordionItem>
