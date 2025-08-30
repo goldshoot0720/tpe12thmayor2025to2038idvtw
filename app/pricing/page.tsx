@@ -34,7 +34,7 @@ export default function PricingPage() {
             An open-source & self-hostable Heroku / Netlify / Vercel
             alternative.
             <br />
-            鋒兄 GitHub Sponsors $5.
+            鋒兄 GitHub Sponsors $5(美元).
           </p>
         </CardBody>
         <Divider />
