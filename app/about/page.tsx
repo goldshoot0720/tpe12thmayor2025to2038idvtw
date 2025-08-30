@@ -23,7 +23,7 @@ export default function AboutPage() {
         >
           {"企業網站"}
           <br />
-          {"預計2042年上線"}
+          {"預計2035~2042年上線"}
           <br />
           {"資本額100萬"}
           <br />
@@ -45,7 +45,7 @@ export default function AboutPage() {
         >
           {"企業網站"}
           <br />
-          {"預計2042年上線"}
+          {"預計2035~2042年上線"}
           <br />
           {"資本額100萬"}
           <br />
