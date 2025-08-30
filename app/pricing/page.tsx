@@ -17,10 +17,10 @@ export default function PricingPage() {
       <Card className="max-w-[400px]">
         <CardHeader className="flex gap-3">
           <Image
-            alt="heroui logo"
+            alt="Coolify logo"
             height={40}
             radius="sm"
-            src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"
+            src="https://coolify.io/favicon.ico"
             width={40}
           />
           <div className="flex flex-col">
