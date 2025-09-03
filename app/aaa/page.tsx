@@ -17,13 +17,13 @@ export default function AAAPage() {
           {"gmail/hotmail/github"}
         </AccordionItem>
         <AccordionItem key="5" aria-label="Accordion 5" title="cycu9627132✅">
-          {"manus"}
+          {"gmail/manus"}
         </AccordionItem>
-        <AccordionItem key="6" aria-label="Accordion 6" title="">
-          {""}
+        <AccordionItem key="6" aria-label="Accordion 6" title="sss9627132✅">
+          {"gmail/manus"}
         </AccordionItem>
-        <AccordionItem key="7" aria-label="Accordion 7" title="">
-          {""}
+        <AccordionItem key="7" aria-label="Accordion 7" title="ice9627132✅">
+          {"gmail/manus"}
         </AccordionItem>
         <AccordionItem key="8" aria-label="Accordion 8" title="">
           {""}
