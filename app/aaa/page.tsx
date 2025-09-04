@@ -109,11 +109,11 @@ export default function AAAPage() {
         <AccordionItem key="35" aria-label="Accordion 35" title="">
           {""}
         </AccordionItem>
-        <AccordionItem key="36" aria-label="Accordion 36" title="">
-          {""}
+        <AccordionItem key="36" aria-label="Accordion 36" title="abuhg17">
+          {"DigitalOcean(優惠至十月八日/部署3個靜態網頁免費)"}
         </AccordionItem>
-        <AccordionItem key="37" aria-label="Accordion 37" title="">
-          {""}
+        <AccordionItem key="37" aria-label="Accordion 37" title="goldshoot0720">
+          {"DigitalOcean(無優惠/部署3個靜態網頁免費)"}
         </AccordionItem>
       </Accordion>
     </div>
